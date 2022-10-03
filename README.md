@@ -1,2 +1,5 @@
-# c-programs
-All C programs that I have implemented
+# C-programs
+
+## Repository contains:
+
+All the data structure programs done in C language.
